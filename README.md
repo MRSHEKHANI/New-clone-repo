@@ -14,9 +14,12 @@ Create an app that accomplishes the following:
 
 Connect to the Mock REST API. Below is the doc for endpoint
 
-[REST docs](https://docs.mockend.com/#rest)
+Clone this repo and `npm install`
 
-The end point to use is https://mockend.com/safaldas/mock-api/users 
+To start the server run `npm run serve-backend`
+[REST docs](https://github.com/typicode/json-server#routes)
+
+The end point to use is http://localhost:3333/users 
 
 Create the users List as shown in the wireframe. Use services, directives, filters where appropriate
 
