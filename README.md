@@ -16,7 +16,7 @@ Connect to the Mock REST API. Below is the doc for endpoint
 
 Clone this repo and `npm install`
 
-To start the server run `npm run serve-backend`
+To start the server run `npm start`
 [REST docs](https://github.com/typicode/json-server#routes)
 
 The end point to use is http://localhost:3333/users 
